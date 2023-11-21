@@ -12,6 +12,7 @@ numpy
 seaborn
 matplotlib 
 librosa
+Tensorflow
 
 ## Model
 LSTM
